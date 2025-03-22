@@ -23,7 +23,7 @@ Soy un estudiante en segundo año de Analista en Sistemas de la Información y C
 
 - 📄 **[Ver Informe Completo](https://github.com/FedericoLami/spotify-top-charts/blob/main/informe.pdf)**
 
-- 📄 **[Ver Certificado](https://github.com/FedericoLami/spotify-top-charts/blob/main/Certificado.png)**
+- 📄 **[Ver Certificado](https://github.com/FedericoLami/spotify-top-charts/blob/main/certificado.png)**
 
 ---
 
