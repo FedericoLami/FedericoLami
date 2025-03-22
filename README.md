@@ -13,7 +13,7 @@ Soy un estudiante en segundo año de Analista en Sistemas de la Información y C
 
 ## 🏆 Proyectos Destacados
 
-### 📌 Estadísticas Fútbol Argentino  
+### 📌 [Estadísticas Fútbol Argentino](https://github.com/FedericoLami/futbol-argentino)
 - Uso de **SQL Server, Excel y PowerBI** para el análisis de datos.
 - Creación de dashboards interactivos en PowerBI.
 
