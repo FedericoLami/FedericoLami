@@ -48,6 +48,7 @@ Soy un estudiante en segundo año de Analista en Sistemas de la Información y C
 - **Data Analyst - IBM (2024 - En curso)**
 - **Power BI - Microsoft (2024 - En curso)**
 - **Python - Universidad de Michigan (2025)**
+- **[Data Analyst - Coderhouse (2024)](https://github.com/FedericoLami/spotify-top-charts/blob/main/certificado.png)**
 
 ---
 
