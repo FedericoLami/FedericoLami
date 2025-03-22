@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 <center><h1>Sobre mí</h1></center>
+## 🚀 Sobre mí
 Soy estudiante en segundo año de Analista en Sistemas de la Información y Comunicación y Data Analytics. Me apasiona el análisis de datos y la tecnología, con habilidades en la creación de dashboards interactivos y la manipulación de bases de datos. Aprendo rápido y me adapto a nuevos desafíos con entusiasmo.
 
 ---
