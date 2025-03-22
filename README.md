@@ -18,7 +18,7 @@ Soy un estudiante en segundo año de Analista en Sistemas de la Información y C
 - Uso de **SQL Server, Excel y PowerBI** para el análisis de datos.
 - Creación de dashboards interactivos en PowerBI.
 
-### 📌 [Spotify Top Charts](https://github.com/tu-usuario/spotify-top-charts](https://github.com/FedericoLami/spotify-top-charts)
+### 📌 [Spotify Top Charts](https://github.com/FedericoLami/spotify-top-charts)
 - Análisis de los artistas más escuchados y sus colaboraciones usando SQL Server, Excel y PowerBI.
 - Uso de **Excel, PowerPoint, SQL Server y PowerBI**.
 
