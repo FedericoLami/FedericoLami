@@ -3,7 +3,6 @@
 
 📧 **Email:** fedeelami@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/federicolami](https://www.linkedin.com/in/federicolami/)  
-📂 **Portafolio:** [datascienceportfol.io/federicolami](https://www.datascienceportfol.io/federicolami)
 
 ---
 
