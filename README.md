@@ -21,10 +21,6 @@ Soy un estudiante en segundo año de Analista en Sistemas de la Información y C
 - Análisis de los artistas más escuchados y sus colaboraciones usando SQL Server, Excel y PowerBI.
 - Uso de **Excel, PowerPoint, SQL Server y PowerBI**.
 
-- 📄 **[Ver Informe Completo](https://github.com/FedericoLami/spotify-top-charts/blob/main/informe.pdf)**
-
-- 📄 **[Ver Certificado](https://github.com/FedericoLami/spotify-top-charts/blob/main/certificado.png)**
-
 ---
 
 ## 🛠️ Habilidades
