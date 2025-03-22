@@ -44,11 +44,12 @@ Soy un estudiante en segundo año de Analista en Sistemas de la Información y C
 ---
 
 ## 📚 Cursos Complementarios
-- **Análisis de Datos - Google (2024)**
+- **[Análisis de Datos - Google (2024)](https://github.com/FedericoLami/Certificados/blob/main/Data%20analisis%20by%20Coursera%20and%20Google.png)**
 - **Data Analyst - IBM (2024 - En curso)**
 - **Power BI - Microsoft (2024 - En curso)**
-- **Python - Universidad de Michigan (2025)**
-- **[Data Analyst - Coderhouse (2024)](https://github.com/FedericoLami/spotify-top-charts/blob/main/certificado.png)**
+- **[Python - Universidad de Michigan (2025)](https://github.com/FedericoLami/Certificados/blob/main/Python%20by%20Coursera%20and%20U.%20Michigan.png)**
+- **[Data Analyst - Coderhouse (2024)](https://github.com/FedericoLami/Certificados/blob/main/Data%20Analytics%20by%20Coderhouse.png)**
+- **[Power BI - Coderhouse (2024)](https://github.com/FedericoLami/Certificados/blob/main/Certificado%20de%20Power%20BI.png)**
 
 ---
 
