@@ -1,9 +1,9 @@
-<div align="center"># 💻 Federico Lami
+# 💻 Federico Lami
 ### 📊 Data Analyst | Estudiante de Analista en Sistemas de la Información y Comunicación
 
 📧 **Email:** fedeelami@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/federicolami](https://www.linkedin.com/in/federicolami/)  
-</div>
+
 ---
 
 ## 🚀 Sobre mí
