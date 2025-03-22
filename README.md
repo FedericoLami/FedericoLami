@@ -2,7 +2,6 @@
 ### 📊 Data Analyst | Estudiante de Analista en Sistemas de la Información y Comunicación
 
 📧 **Email:** fedeelami@gmail.com  
-📱 **Teléfono:** 2344502998  
 🔗 **LinkedIn:** [linkedin.com/in/federicolami](https://www.linkedin.com/in/federicolami/)  
 📂 **Portafolio:** [datascienceportfol.io/federicolami](https://www.datascienceportfol.io/federicolami)
 
