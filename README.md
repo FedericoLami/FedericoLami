@@ -61,10 +61,6 @@ Soy estudiante en segundo año de Analista en Sistemas de la Información y Comu
 - Control y supervisión de inventario.
 - Coordinación entre mecánicos y clientes.
 
----
-
-## 📊 Stats de GitHub
-![Federico's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fedeelami&show_icons=true&theme=radical)
 
 
 
