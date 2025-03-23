@@ -66,9 +66,5 @@ Soy estudiante en segundo año de Analista en Sistemas de la Información y Comu
 ## 📊 Stats de GitHub
 ![Federico's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fedeelami&show_icons=true&theme=radical)
 
-![Visitas en el perfil](https://komarev.com/ghpvc/?username=fedeelami&label=Visitas&color=blue&style=for-the-badge)
-
-
-¡Gracias por visitar mi perfil! 🚀
 
 
