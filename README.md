@@ -15,12 +15,15 @@ Soy estudiante en segundo año de Analista en Sistemas de la Información y Comu
 
 ### 📌 [Estadísticas Fútbol Argentino](https://github.com/FedericoLami/futbol-argentino)
 - Uso de **SQL Server, Excel y PowerBI** para el análisis de datos.
-- Creación de dashboards interactivos en PowerBI.
+- Creación de dashboards interactivos en **PowerBI**.
 
 ### 📌 [Spotify Top Charts](https://github.com/FedericoLami/spotify-top-charts)
 - Análisis de los artistas más escuchados y sus colaboraciones usando SQL Server, Excel y PowerBI.
 - Uso de **Excel, PowerPoint, SQL Server y PowerBI**.
 
+### 📌 [Tailwind Traders](https://github.com/FedericoLami/Microsoft-PowerBI)
+- Análisis sobre la empresa ficticia Tailwind Traders
+- Uso de **PowerBI y Excel**.
 ---
 
 ## 🛠️ Habilidades
