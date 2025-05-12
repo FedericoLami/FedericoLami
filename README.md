@@ -11,21 +11,6 @@ Soy estudiante de Analista en Sistemas de la Información y Comunicación y Data
 
 ---
 
-## 🏆 Proyectos Destacados
-
-### 📌 [Estadísticas Fútbol Argentino](https://github.com/FedericoLami/futbol-argentino)
-- Uso de **SQL Server, Excel y PowerBI** para el análisis de datos.
-- Creación de dashboards interactivos en **PowerBI**.
-
-### 📌 [Spotify Top Charts](https://github.com/FedericoLami/spotify-top-charts)
-- Análisis de los artistas más escuchados y sus colaboraciones usando SQL Server, Excel y PowerBI.
-- Uso de **Excel, PowerPoint, SQL Server y PowerBI**.
-
-### 📌 [Tailwind Traders](https://github.com/FedericoLami/Microsoft-PowerBI)
-- Análisis sobre la empresa ficticia Tailwind Traders
-- Uso de **PowerBI y Excel**.
----
-
 ## 🛠️ Habilidades
 
 - **Bases de Datos:** SQL Server  
