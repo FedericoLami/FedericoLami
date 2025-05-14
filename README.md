@@ -1,6 +1,7 @@
 # 💻 Federico Lami
 ### 📊 Data Analyst | Estudiante de Analista en Sistemas de la Información y Comunicación
 📄 **Currículum:** [https://github.com/FedericoLami/Curriculum](https://github.com/FedericoLami/Curriculum/blob/main/Curr%C3%ADculum-Vitae.pdf)
+
 📧 **Email:** fedeelami@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/federicolami](https://www.linkedin.com/in/federicolami/)
 
