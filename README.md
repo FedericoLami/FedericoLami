@@ -1,6 +1,5 @@
 # 💻 Federico Lami
-### 📊 Data Analyst | Estudiante de Analista en Sistemas de la Información y Comunicación
-
+### 📊 Data Analyst | Estudiante de la Universidad Nacional De La Plata
 📄 **Currículum:** [https://github.com/FedericoLami/Curriculum](https://github.com/FedericoLami/Curriculum/blob/main/Curr%C3%ADculum-Vitae.pdf)  
 📧 **Email:** fedeelami@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/federicolami](https://www.linkedin.com/in/federicolami/)
@@ -8,7 +7,7 @@
 ---
 
 ## 🚀 Sobre mí
-Soy estudiante de Analista en Sistemas de la Información y Comunicación y Data Analytics. Me apasiona el análisis de datos y la tecnología, con habilidades en la creación de dashboards interactivos y la manipulación de bases de datos. Aprendo rápido y me adapto a nuevos desafíos con entusiasmo.
+Estudiante de la Universidad Nacional De La Plata y Data Analytics. Me apasiona el análisis de datos y la tecnología, con habilidades en la creación de dashboards interactivos y la manipulación de bases de datos. Aprendo rápido y me adapto a nuevos desafíos con entusiasmo.
 
 ---
 
