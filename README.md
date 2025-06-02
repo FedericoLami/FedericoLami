@@ -33,7 +33,6 @@ Estudiante de la Universidad Nacional De La Plata y Data Analytics. Me apasiona 
 
 ## 📚 Cursos Complementarios
 - **[Análisis de Datos - Google (2024)](https://github.com/FedericoLami/Certificados/blob/main/Data%20analisis%20by%20Coursera%20and%20Google.png)**
-- **Data Analyst - IBM (En curso)**
 - **[Power BI - Microsoft (2025)](https://github.com/FedericoLami/Certificados/blob/main/Coursera%20certificado.pdf)**
 - **[Python - Universidad de Michigan (2025)](https://github.com/FedericoLami/Certificados/blob/main/Python%20by%20Coursera%20and%20U.%20Michigan.png)**
 - **[Data Analyst - Coderhouse (2024)](https://github.com/FedericoLami/Certificados/blob/main/Data%20Analytics%20by%20Coderhouse.png)**
