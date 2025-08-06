@@ -43,10 +43,20 @@ Estudiante de la Universidad Nacional De La Plata y Data Analytics. Me apasiona 
 ## 💼 Experiencia Laboral
 
 🔧 **Atención al cliente y ayudante de mecánica (2018-2021)**  
-- Gestión de consultas y asesoramiento sobre servicios.
-- Resolución de problemas y quejas de clientes.
-- Control y supervisión de inventario.
-- Coordinación entre mecánicos y clientes.
+- Automatice y optimice el control de inventario de piezas y herramientas mediante Microsoft Excel, 
+  utilizando funciones avanzadas, validaciones, fórmulas anidadas y tablas dinámicas, lo que permitió 
+  reducir los errores de stock y mejorar la eficiencia operativa del taller.
+
+- Diseñe dashboards internos para visualizar el movimiento de piezas y proyectar necesidades de reposición, 
+  mejorando la toma de decisiones y reduciendo los faltantes críticos.
+  
+- Colaboré en la organización y mejora del seguimiento de reparaciones y tiempos de entrega, facilitando la 
+  coordinación entre el equipo técnico y la atención al cliente. Esto permitió brindar actualizaciones más 
+  precisas, mejorar la experiencia del cliente y reducir reclamos por demoras.
+  
+- Coordiné y gestioné activamente la comunicación entre clientes y personal técnico, asegurando 
+  actualizaciones claras y frecuentes sobre el estado de los trabajos, brindando asesoramiento sobre servicios, 
+  precios y tiempos estimados. 
 
 
 
