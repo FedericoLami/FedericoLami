@@ -57,26 +57,5 @@ Materias destacadas: Taller de Programación, Seminario de Python, Matemática I
 - Mejora de procesos de comunicación entre clientes y personal técnico.  
 - Gestión eficiente de actualizaciones, tiempos de entrega y resolución de problemas.  
 
----
-
-## 📊 Tecnologías y Lenguajes más usados
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoLami&layout=compact&theme=radical&langs_count=6)
-
-</div>
-
----
-
-## 👁️ Contador de visitas
-
-<div align="center">
-
-![Visitas en el perfil](https://komarev.com/ghpvc/?username=FedericoLami&label=Visitas&color=blue&style=flat-square)
-
-</div>
-
-
 
 
