@@ -1,8 +1,7 @@
 # 💻 Federico Lami
 ### 📊 Data Analyst | Estudiante de la Universidad Nacional de La Plata
 
-📄 **Currículum:** [Ver PDF](https://github.com/FedericoLami/Curriculum/blob/main/CV.pdf) 
-
+📄 **Currículum:** [Ver PDF](https://github.com/FedericoLami/Curriculum/blob/main/CV.pdf)    
 📧 **Email:** fedeelami@gmail.com   
 🔗 **LinkedIn:** [linkedin.com/in/federicolami](https://www.linkedin.com/in/federicolami)
 
