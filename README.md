@@ -1,62 +1,81 @@
 # 💻 Federico Lami
-### 📊 Data Analyst | Estudiante de la Universidad Nacional De La Plata
-📄 **Currículum:** [https://github.com/FedericoLami/Curriculum](https://github.com/FedericoLami/Curriculum/blob/main/Curr%C3%ADculum-Vitae.pdf)  
-📧 **Email:** fedeelami@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/federicolami](https://www.linkedin.com/in/federicolami/)
+### 📊 Data Analyst | Estudiante de la Universidad Nacional de La Plata
+
+📄 **Currículum:** [Ver PDF](https://github.com/FedericoLami/Curriculum/blob/main/Curr%C3%ADculum-Vitae.pdf)  
+📧 **Email:** fedeelami@gmail.com   
+🔗 **LinkedIn:** [linkedin.com/in/federicolami](https://www.linkedin.com/in/federicolami)
 
 ---
 
 ## 🚀 Sobre mí
-Estudiante de la Universidad Nacional De La Plata y Data Analytics. Me apasiona el análisis de datos y la tecnología, con habilidades en la creación de dashboards interactivos y la manipulación de bases de datos. Aprendo rápido y me adapto a nuevos desafíos con entusiasmo.
+
+Soy estudiante de Analista en Tecnologías de la Información y Comunicación en la Universidad Nacional de La Plata y me estoy formando en el área de Data Analytics.  
+
+Me destaco por mi capacidad de aprendizaje rápido, adaptación al cambio y resolución de problemas. Disfruto trabajar en equipo, tengo habilidades sólidas de comunicación y estoy en constante formación, incorporando nuevas herramientas, tecnologías e idiomas.  
+
+Actualmente desarrollo proyectos relacionados con análisis de datos, visualización y automatización, utilizando herramientas modernas como Python, SQL, Power BI, y Excel.
 
 ---
 
 ## 🛠️ Habilidades
 
 - **Bases de Datos:** SQL Server  
-- **Herramientas de Análisis:** Excel, Power BI, Tableau  
-- **Lenguajes de Programación:** Python  
-- **Procesamiento de Datos:** Power Query, Tablas Dinámicas  
-- **Habilidades Blandas:** Trabajo en equipo, Comunicación efectiva, Resolución de problemas
+- **Análisis y Visualización de Datos:** Excel avanzado, Power BI, Tableau  
+- **Lenguajes de Programación:** Python (Pandas, NumPy, Matplotlib), DAX  
+- **Procesamiento de Datos:** Power Query, ETL, limpieza de datos  
+- **Herramientas:** Jupyter Notebook, Git, Streamlit  
+- **Habilidades Blandas:** Comunicación efectiva, trabajo en equipo, proactividad, organización
 
 ---
 
 ## 🎓 Educación
 
 🎓 **Universidad Nacional de La Plata**  
-📚 Analista en Sistemas de la Información y Comunicación (2023 - Actualidad)
+📚 Analista en Tecnologías de la Información y Comunicación (2023 - Actualidad)  
+Materias destacadas: Taller de Programación, Seminario de Python, Matemática I y II
 
 🎓 **Centro de Formación Rural (CFR Saladillo)**  
 📚 Bachiller en Administración Agraria (2010 - 2016)
 
 ---
 
-## 📚 Cursos Complementarios
-- **[Análisis de Datos - Google (2024)](https://github.com/FedericoLami/Certificados/blob/main/Data%20analisis%20by%20Coursera%20and%20Google.png)**
-- **[Power BI - Microsoft (2025)](https://github.com/FedericoLami/Certificados/blob/main/Coursera%20certificado.pdf)**
-- **[Python - Universidad de Michigan (2025)](https://github.com/FedericoLami/Certificados/blob/main/Python%20by%20Coursera%20and%20U.%20Michigan.png)**
-- **[Data Analyst - Coderhouse (2024)](https://github.com/FedericoLami/Certificados/blob/main/Data%20Analytics%20by%20Coderhouse.png)**
-- **[Power BI - Coderhouse (2024)](https://github.com/FedericoLami/Certificados/blob/main/Certificado%20de%20Power%20BI.png)**
+## 📚 Educación Complementaria
+
+- **[Análisis de Datos – Google (2024)](https://github.com/FedericoLami/Certificados/blob/main/Data%20analisis%20by%20Coursera%20and%20Google.png)**
+- **[Power BI – Microsoft (2025)](https://github.com/FedericoLami/Certificados/blob/main/Coursera%20certificado.pdf)**
+- **[Python – Universidad de Michigan (2025)](https://github.com/FedericoLami/Certificados/blob/main/Python%20by%20Coursera%20and%20U.%20Michigan.png)**
+- **[Data Analyst – Coderhouse (2024)](https://github.com/FedericoLami/Certificados/blob/main/Data%20Analytics%20by%20Coderhouse.png)**
+- **[Power BI – Coderhouse (2024)](https://github.com/FedericoLami/Certificados/blob/main/Certificado%20de%20Power%20BI.png)**
 
 ---
 
-## 💼 Experiencia Laboral
+## 💼 Experiencia Profesional
 
-🔧 **Atención al cliente y ayudante de mecánica (2018-2021)**  
-- Automatice y optimice el control de inventario de piezas y herramientas mediante Microsoft Excel, 
-  utilizando funciones avanzadas, validaciones, fórmulas anidadas y tablas dinámicas, lo que permitió 
-  reducir los errores de stock y mejorar la eficiencia operativa del taller.
+🔧 **Analista administrativo y atención al cliente (2018 – 2021)**  
+- Automatización y optimización del control de inventario usando Excel avanzado.  
+- Desarrollo de dashboards internos para seguimiento de repuestos y necesidades de reposición.  
+- Mejora de procesos de comunicación entre clientes y personal técnico.  
+- Gestión eficiente de actualizaciones, tiempos de entrega y resolución de problemas.  
 
-- Diseñe dashboards internos para visualizar el movimiento de piezas y proyectar necesidades de reposición, 
-  mejorando la toma de decisiones y reduciendo los faltantes críticos.
-  
-- Colaboré en la organización y mejora del seguimiento de reparaciones y tiempos de entrega, facilitando la 
-  coordinación entre el equipo técnico y la atención al cliente. Esto permitió brindar actualizaciones más 
-  precisas, mejorar la experiencia del cliente y reducir reclamos por demoras.
-  
-- Coordiné y gestioné activamente la comunicación entre clientes y personal técnico, asegurando 
-  actualizaciones claras y frecuentes sobre el estado de los trabajos, brindando asesoramiento sobre servicios, 
-  precios y tiempos estimados. 
+---
+
+## 📊 Tecnologías y Lenguajes más usados
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoLami&layout=compact&theme=radical&langs_count=6)
+
+</div>
+
+---
+
+## 👁️ Contador de visitas
+
+<div align="center">
+
+![Visitas en el perfil](https://komarev.com/ghpvc/?username=FedericoLami&label=Visitas&color=blue&style=flat-square)
+
+</div>
 
 
 
