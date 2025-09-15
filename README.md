@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mí
 
-Soy estudiante de Analista en Tecnologías de la Información y Comunicación en la Universidad Nacional de La Plata y me estoy formando en el área de Data Analytics.  
+Estudiante avanzado de Analista en Tecnologías de la Información y Comunicación en la Universidad Nacional de La Plata y me estoy formando en el área de Data Analytics.  
 
 Me destaco por mi capacidad de aprendizaje rápido, adaptación al cambio y resolución de problemas. Disfruto trabajar en equipo, tengo habilidades sólidas de comunicación y estoy en constante formación, incorporando nuevas herramientas, tecnologías e idiomas.  
 
