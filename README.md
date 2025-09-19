@@ -2,17 +2,17 @@
 ### 📊 Data Analyst | Estudiante de la Universidad Nacional de La Plata
 
 📧 **Email:** fedeelami@gmail.com   
-🔗 **LinkedIn:** [linkedin.com/in/federicolami](https://www.linkedin.com/in/federicolami)
+🔗 **LinkedIn:** [linkedin.com/in/federicolami](https://www.linkedin.com/in/federicolami) | 🔗 **GitHub:** [github.com/FedericoLami](https://github.com/FedericoLami)
 
 ---
 
 ## 🚀 Sobre mí
 
-Estudiante avanzado de Analista en Tecnologías de la Información y Comunicación en la Universidad Nacional de La Plata y me estoy formando en el área de Data Analytics.  
+Estudiante avanzado de Analista en Tecnologías de la Información y Comunicación en la UNLP y en formación en **Data Analytics**.  
 
 Me destaco por mi capacidad de aprendizaje rápido, adaptación al cambio y resolución de problemas. Disfruto trabajar en equipo, tengo habilidades sólidas de comunicación y estoy en constante formación, incorporando nuevas herramientas, tecnologías e idiomas.  
 
-Actualmente desarrollo proyectos relacionados con análisis de datos, visualización y automatización, utilizando herramientas modernas como Python, SQL, Power BI, y Excel.
+Actualmente desarrollo proyectos relacionados con **análisis de datos, visualización y automatización**, utilizando herramientas modernas como Python, SQL, Power BI y Excel.
 
 ---
 
@@ -27,14 +27,22 @@ Actualmente desarrollo proyectos relacionados con análisis de datos, visualizac
 
 ---
 
+## 💼 Experiencia Profesional
+
+🔧 **Analista administrativo y atención al cliente (2018 – 2021)**  
+- Automatización y optimización del control de inventario usando Excel avanzado.  
+- Desarrollo de dashboards internos para seguimiento de repuestos y necesidades de reposición.  
+- Mejora de procesos de comunicación entre clientes y personal técnico.  
+- Gestión eficiente de actualizaciones, tiempos de entrega y resolución de problemas.
+
+---
+
 ## 🎓 Educación
 
-🎓 **Universidad Nacional de La Plata**  
-📚 Analista en Tecnologías de la Información y Comunicación (2023 - Actualidad)  
+**Universidad Nacional de La Plata** – Analista en Tecnologías de la Información y Comunicación (2023 - Actualidad)  
 Materias destacadas: Taller de Programación, Seminario de Python, Matemática I y II
 
-🎓 **Centro de Formación Rural (CFR Saladillo)**  
-📚 Bachiller en Administración Agraria (2010 - 2016)
+**Centro de Formación Rural (CFR Saladillo)** – Bachiller en Administración Agraria (2010 - 2016)
 
 ---
 
@@ -48,13 +56,29 @@ Materias destacadas: Taller de Programación, Seminario de Python, Matemática I
 
 ---
 
-## 💼 Experiencia Profesional
+## 🚀 Proyectos Destacados
 
-🔧 **Analista administrativo y atención al cliente (2018 – 2021)**  
-- Automatización y optimización del control de inventario usando Excel avanzado.  
-- Desarrollo de dashboards internos para seguimiento de repuestos y necesidades de reposición.  
-- Mejora de procesos de comunicación entre clientes y personal técnico.  
-- Gestión eficiente de actualizaciones, tiempos de entrega y resolución de problemas.  
+### 1. ENCUEST.AR – [Repositorio](https://github.com/FedericoLami/ENCUEST.AR)
+- Web app en **Python/Streamlit** para análisis de datos socioeconómicos (INDEC).  
+- Limpieza, transformación y visualización de datasets interactivos.  
+- Pipeline documentado en **Jupyter Notebook**.  
+- Coordinación en equipo usando **Git y GitLab**.
 
+### 2. Spotify Top Charts – [Repositorio](https://github.com/FedericoLami/Spotify-Top-Charts)
+- ETL de datos musicales con **SQL Server** y **Power Query**.  
+- Dashboards interactivos en **Power BI** con medidas DAX avanzadas.  
+- Insights sobre tendencias y popularidad de artistas.
 
+### 3. Estadísticas de Fútbol Argentino – [Repositorio](https://github.com/FedericoLami/Futbol-Argentino)
+- Análisis exhaustivo de rendimiento de equipos y jugadores.  
+- Dashboards en **Power BI** y tablas dinámicas avanzadas en Excel.  
+- Presentación de métricas clave y visualización interactiva.
+
+---
+
+## 🎯 Intereses
+
+Busco oportunidades trainee o en **bootcamps de datos**. Siempre aprendiendo y trabajando en proyectos que combinan **análisis de datos, desarrollo y visualización**.
+
+---
 
