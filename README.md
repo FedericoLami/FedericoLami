@@ -2,7 +2,7 @@
 ### 📊 Data Analyst | Estudiante de la Universidad Nacional de La Plata
 
 📧 **Email:** fedeelami@gmail.com | 📧 **Email:** federicolami@hotmail.com   
-🔗 **LinkedIn:** [linkedin.com/in/federicolami](https://www.linkedin.com/in/federicolami) | 🔗 **GitHub:** [github.com/FedericoLami](https://github.com/FedericoLami)
+🔗 **LinkedIn:** [linkedin.com/in/federicolami](https://www.linkedin.com/in/federicolami)
 
 ---
 
