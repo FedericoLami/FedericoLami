@@ -149,5 +149,6 @@ Estudiante avanzado
 
 - LinkedIn: www.linkedin.com/in/federico-lami
 - GitHub: https://github.com/FedericoLami
+- Email: fedeelami@gmail.com
 
 ---
