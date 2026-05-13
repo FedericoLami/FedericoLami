@@ -8,19 +8,18 @@
 
 ## Sobre mí
 
-Estudiante avanzado de Analista en Tecnologías de la Información y Comunicación en la UNLP y en formación en **Data Analytics**.  
+Estudiante avanzado de Analista en Tecnologías de la Información y Comunicación en la UNLP. En formación en **Data Analytics** y AI Engineer.  
 
-Me destaco por mi capacidad de aprendizaje rápido, adaptación al cambio y resolución de problemas. Disfruto trabajar en equipo, tengo habilidades sólidas de comunicación y estoy en constante formación, incorporando nuevas herramientas, tecnologías e idiomas.  
+Me destaco por mi capacidad de aprendizaje rápido, adaptación al cambio y resolución de problemas. Tengo habilidades sólidas de comunicación y estoy en constante formación, incorporando nuevas herramientas y tecnologías
 
 ---
 
 ## Habilidades
 
-- **Bases de Datos:** SQL Server  
-- **Análisis y Visualización de Datos:** Excel avanzado, Power BI, Tableau  
-- **Lenguajes de Programación:** Python (Pandas, NumPy, Matplotlib), DAX  
-- **Procesamiento de Datos:** Power Query, ETL, limpieza de datos  
-- **Herramientas:** Jupyter Notebook, Git, Streamlit  
+- **Bases de Datos:** SQL
+- **Análisis y Visualización de Datos:** Streamlit, Power BI  
+- **Lenguajes de Programación:** Python (Pandas, NumPy, Matplotlib, Streamlit)    
+- **Herramientas:** Jupyter Notebook, Git, Streamlit, Anthropic  
 - **Habilidades Blandas:** Comunicación efectiva, trabajo en equipo, proactividad, organización
 
 ---
