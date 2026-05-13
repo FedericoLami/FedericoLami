@@ -5,17 +5,12 @@
 Estudiante avanzado de Analista en Tecnologías de la Información y Comunicación en la UNLP.  
 Actualmente enfocado en Data Analytics, Inteligencia Artificial y desarrollo de aplicaciones basadas en LLMs.
 
-Me interesa construir soluciones reales utilizando análisis de datos, automatización e inteligencia artificial, combinando backend, visualización y sistemas inteligentes orientados a empresas.
-
 ---
 
 ## Sobre mí
 
 - Desarrollo proyectos de análisis de datos y aplicaciones con IA
-- Experiencia trabajando con Python, APIs REST y bases de datos
-- Interés fuerte en AI Agents, RAG Systems y automatización inteligente
-- Aprendizaje constante de nuevas tecnologías y herramientas
-- Perfil orientado a resolución de problemas y construcción de productos reales
+- Capacitandome en AI Agents, RAG Systems y automatización inteligente
 
 ---
 
@@ -57,26 +52,6 @@ Me interesa construir soluciones reales utilizando análisis de datos, automatiz
 ---
 
 # Proyectos Destacados
-
-## ENCUEST.AR — App web de análisis socioeconómico
-
-🔗 GitHub:  
-https://github.com/FedericoLami/ENCUEST.AR
-
-### Tecnologías
-Python · Pandas · Streamlit · Matplotlib · NumPy · Altair · Jupyter Notebook · Git · GitLab
-
-### Descripción
-Aplicación web desarrollada de forma colaborativa para analizar datos de la Encuesta Permanente de Hogares (EPH – INDEC), procesando más de 50.000 registros por período.
-
-### Lo que hice
-- Limpieza y transformación de datos crudos
-- Estructuración de datasets optimizados
-- Desarrollo de visualizaciones interactivas
-- Trabajo colaborativo con Git/GitLab
-- Gestión de ramas y resolución de conflictos
-
----
 
 ## AI Message Classifier
 
@@ -123,14 +98,14 @@ Python · FastAPI · ChromaDB · PyMuPDF · Claude AI
 
 ---
 
-# Lo que estoy aprendiendo actualmente
+## Actualmente trabajando en
 
 - AI Agents
-- Sistemas RAG avanzados
+- Sistemas RAG
 - Automatización con IA
 - Arquitectura de aplicaciones inteligentes
 - Backend con Python
-- Data Engineering
+- Data Analytics
 - Cloud & Deployments
 
 ---
@@ -165,27 +140,8 @@ Estudiante avanzado
 - FastAPI
 - Power BI
 - APIs REST
-- SQLite
 - ChromaDB
 - Git & GitHub
-
----
-
-## Blandas
-
-- Comunicación efectiva
-- Trabajo en equipo
-- Resolución de problemas
-- Adaptabilidad
-- Aprendizaje rápido
-- Organización
-
----
-
-# Filosofía de trabajo
-
-Entiendo la IA como sistemas construidos sobre contexto, arquitectura y datos.  
-Me interesa desarrollar herramientas reales que combinen análisis, automatización e inteligencia artificial para resolver problemas concretos.
 
 ---
 
