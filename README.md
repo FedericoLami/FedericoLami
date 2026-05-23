@@ -65,11 +65,11 @@ Dev           →  Git · GitLab · python-dotenv · venv
 
 ## Certificaciones
 
-- Desarrollo en Python — Universidad de Michigan (2025)
-- Análisis de Datos en Power BI — Microsoft (2025)
-- Análisis de Datos — Google (2024)
-- Data Analyst — CoderHouse (2024)
-- Power BI — CoderHouse (2024)
+- [Desarrollo en Python — Universidad de Michigan (2025)](https://github.com/FedericoLami/Certificados/blob/main/Python%20by%20Coursera%20and%20U.%20Michigan.png)
+- [Análisis de Datos en Power BI — Microsoft (2025)](https://github.com/FedericoLami/Certificados/blob/main/Coursera%20certificado.pdf)
+- [Análisis de Datos — Google (2024)](https://github.com/FedericoLami/Certificados/blob/main/Data%20analisis%20by%20Coursera%20and%20Google.png)
+- [Data Analyst — CoderHouse (2024)](https://github.com/FedericoLami/Certificados/blob/main/Data%20Analytics%20by%20Coderhouse.png)
+- [Power BI — CoderHouse (2024)](https://github.com/FedericoLami/Certificados/blob/main/Certificado%20de%20Power%20BI.png)
 
 ---
 
