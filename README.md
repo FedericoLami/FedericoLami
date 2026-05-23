@@ -1,154 +1,78 @@
+<div align="center">
+
 # Federico Lami
 
-## Data Analytics & AI Engineer in Training
+**AI Engineer · Data Analyst**
 
-Estudiante avanzado de Analista en Tecnologías de la Información y Comunicación en la UNLP.  
-Actualmente enfocado en Data Analytics, Inteligencia Artificial y desarrollo de aplicaciones basadas en LLMs.
+Construyendo sistemas inteligentes con LLMs, agentes y APIs de IA
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/federicolami)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fedeelami@gmail.com)
 
-## Sobre mí
-
-- Desarrollo proyectos de análisis de datos y aplicaciones con IA
-- Capacitandome en AI Agents, RAG Systems y automatización inteligente
+</div>
 
 ---
 
-# Stack Tecnológico
-
-## Lenguajes y Librerías
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+Estudiante avanzado de Analista en TIC (UNLP) con foco en **integración de LLMs, diseño de agentes y automatización inteligente de procesos**. Construyo proyectos reales sobre la API de Anthropic (Claude) combinando Python, FastAPI y análisis de datos.
 
 ---
 
-## Data Analytics & Visualización
+## Proyectos de IA
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### [AI-Agent-Data-Analyst](https://github.com/FedericoLami/AI-Agent-Data-Analyst)
+Agente autónomo que responde preguntas en lenguaje natural sobre el dataset de RRHH de IBM (1.470 empleados). Usa **Claude con tool use**: el modelo razona sobre la pregunta, selecciona y ejecuta herramientas de análisis con pandas en secuencia, y sintetiza una respuesta accionable — sin intervención humana en el proceso intermedio.
 
----
-
-## AI & Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-Claude-black?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6E44FF?style=for-the-badge)
+`Python` · `FastAPI` · `Anthropic Tool Use API` · `Pandas` · `REST`
 
 ---
 
-## Herramientas
+### [BotClasificadorAI](https://github.com/FedericoLami/BotClasificadorAI)
+Sistema de clasificación automática de mensajes con **Claude Haiku**. Recibe texto libre y devuelve categoría, idioma, sentimiento y resumen en JSON estructurado. Expuesto como API REST con persistencia en SQLite. Aplicable en soporte técnico, e-commerce y moderación automática.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+`Python` · `FastAPI` · `Anthropic Claude API` · `SQLite` · `REST`
 
 ---
 
-# Proyectos Destacados
+### [rag-documental](https://github.com/FedericoLami/rag-documental)
+Sistema de consultas inteligentes sobre documentos usando arquitectura **RAG** (Retrieval Augmented Generation). Indexación semántica de PDFs y TXT, base de datos vectorial con ChromaDB y recuperación contextual vía Claude.
 
-## AI Message Classifier
-
-Sistema de clasificación automática de mensajes utilizando Claude AI.
-
-### Tecnologías
-Python · FastAPI · SQLite · Anthropic Claude · HTML · CSS · JavaScript
-
-### Funcionalidades
-- Clasificación automática de mensajes
-- Detección de idioma
-- Análisis de sentimiento
-- Generación de resúmenes
-- Persistencia de datos con SQLite
-- API REST
-
-### Lo que aprendí
-- Estructuración de respuestas JSON desde LLMs
-- Ingeniería de prompts
-- Arquitectura backend modular
-- Integración de APIs de IA
+`Python` · `FastAPI` · `ChromaDB` · `PyMuPDF` · `Anthropic Claude API`
 
 ---
 
-## RAG Documental con IA
+## Otros proyectos
 
-Sistema de consultas inteligentes sobre documentos usando arquitectura RAG (Retrieval Augmented Generation).
-
-### Tecnologías
-Python · FastAPI · ChromaDB · PyMuPDF · Claude AI
-
-### Funcionalidades
-- Indexación semántica de PDFs y TXT
-- Base de datos vectorial
-- Recuperación contextual inteligente
-- Preguntas en lenguaje natural sobre documentos
-
-### Conceptos aplicados
-- Embeddings
-- Chunking
-- Vector Search
-- Context Engineering
-- RAG Architecture
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [ENCUEST.AR](https://github.com/FedericoLami/ENCUEST.AR) | App web de análisis socioeconómico sobre datos del INDEC (+50k registros) | Python · Pandas · Streamlit · Altair |
+| [VideoGamesAnalysis](https://github.com/FedericoLami/VideoGamesAnalysis) | Análisis de mercado global de videojuegos (+16k títulos) | Python · Pandas · Matplotlib |
+| [Spotify Top Charts](https://github.com/FedericoLami/spotify-top-charts) | ETL y dashboard de análisis musical con medidas DAX avanzadas | SQL Server · Power BI · Power Query |
+| [Fútbol Argentino](https://github.com/FedericoLami/Futbol-Argentino) | Dashboard de rendimiento histórico de equipos y jugadores | Excel · Power BI |
 
 ---
 
-## Actualmente trabajando en
+## Stack
 
-- AI Agents
-- Sistemas RAG
-- Automatización con IA
-- Arquitectura de aplicaciones inteligentes
-- Backend con Python
-- Data Analytics
-- Cloud & Deployments
-
----
-
-# Educación
-
-## Universidad Nacional de La Plata (UNLP)
-
-Analista en Tecnologías de la Información y Comunicación  
-Estudiante avanzado
+```
+IA & LLMs     →  Anthropic Claude API · Tool Use · RAG · ChromaDB · Prompt Engineering
+Backend       →  Python · FastAPI · Uvicorn · REST APIs · SQLite
+Datos         →  Pandas · NumPy · Matplotlib · Streamlit · Jupyter Notebook
+BI & SQL      →  SQL Server · Power BI · DAX · Power Query · Excel Avanzado
+Dev           →  Git · GitLab · python-dotenv · venv
+```
 
 ---
 
-# Educación Complementaria
+## Certificaciones
 
-- Python – Universidad de Michigan (2025)
-- Análisis de Datos – Google (2024)
-- Power BI – Microsoft (2025)
-- Data Analyst – Coderhouse (2024)
-
----
-
-# Habilidades
-
-## Técnicas
-
-- Python
-- SQL
-- Pandas
-- NumPy
-- Streamlit
-- FastAPI
-- Power BI
-- APIs REST
-- ChromaDB
-- Git & GitHub
+- Desarrollo en Python — Universidad de Michigan (2025)
+- Análisis de Datos en Power BI — Microsoft (2025)
+- Análisis de Datos — Google (2024)
+- Data Analyst — CoderHouse (2024)
+- Power BI — CoderHouse (2024)
 
 ---
 
-# Contacto
-
-- LinkedIn: www.linkedin.com/in/federico-lami
-- GitHub: https://github.com/FedericoLami
-- Email: fedeelami@gmail.com
-
----
+<div align="center">
+La Plata, Buenos Aires
+</div>
