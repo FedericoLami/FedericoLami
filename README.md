@@ -45,7 +45,7 @@ Sistema de consultas inteligentes sobre documentos usando arquitectura **RAG** (
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [ENCUEST.AR](https://github.com/FedericoLami/ENCUEST.AR) | App web de análisis socioeconómico sobre datos del INDEC (+50k registros) | Python · Pandas · Streamlit · Altair |
-| [VideoGamesAnalysis](https://github.com/FedericoLami/VideoGamesAnalysis) | Análisis de mercado global de videojuegos (+16k títulos) | Python · Pandas · Matplotlib |
+| [VideoGamesAnalysis](https://github.com/FedericoLami/VideoGamesAnalysis) | Análisis de mercado global de videojuegos (+16k títulos) | Python · Pandas · Matplotlib · Streamlit |
 | [Spotify Top Charts](https://github.com/FedericoLami/spotify-top-charts) | ETL y dashboard de análisis musical con medidas DAX avanzadas | SQL Server · Power BI · Power Query |
 | [Fútbol Argentino](https://github.com/FedericoLami/Futbol-Argentino) | Dashboard de rendimiento histórico de equipos y jugadores | Excel · Power BI |
 
