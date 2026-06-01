@@ -26,6 +26,13 @@ Agente autónomo que responde preguntas en lenguaje natural sobre el dataset de 
 
 ---
 
+### [AI-MELI-DataChallenge](https://github.com/FedericoLami/AI-MELI-DataChallenge) 🚧 *En proceso*
+Agente inteligente aplicado a datos reales de stock de MercadoLibre. Permite consultas en lenguaje natural sobre inventario, tendencias y patrones de disponibilidad usando **Claude con tool use** y análisis con Pandas.
+
+`Python` · `Anthropic Claude API` · `Pandas` · `Jupyter Notebook`
+
+---
+
 ### [BotClasificadorAI](https://github.com/FedericoLami/BotClasificadorAI)
 Sistema de clasificación automática de mensajes con **Claude Haiku**. Recibe texto libre y devuelve categoría, idioma, sentimiento y resumen en JSON estructurado. Expuesto como API REST con persistencia en SQLite. Aplicable en soporte técnico, e-commerce y moderación automática.
 
@@ -76,3 +83,4 @@ Dev           →  Git · GitLab · python-dotenv · venv
 <div align="center">
 La Plata, Buenos Aires
 </div>
+
