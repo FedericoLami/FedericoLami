@@ -26,7 +26,7 @@ Agente autónomo que responde preguntas en lenguaje natural sobre el dataset de 
 
 ---
 
-### [AI-MELI-DataChallenge](https://github.com/FedericoLami/AI-MELI-DataChallenge) 🚧 *En proceso*
+### [AI-MELI-DataChallenge](https://github.com/FedericoLami/AI-MELI-DataChallenge)
 Agente inteligente aplicado a datos reales de stock de MercadoLibre. Permite consultas en lenguaje natural sobre inventario, tendencias y patrones de disponibilidad usando **Claude con tool use** y análisis con Pandas.
 
 `Python` · `Anthropic Claude API` · `Pandas` · `Jupyter Notebook`
