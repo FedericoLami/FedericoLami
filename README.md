@@ -19,31 +19,57 @@ Estudiante avanzado de Analista en TIC (UNLP) con foco en **integración de LLMs
 
 ## Proyectos de IA
 
+### [customer-support-agent](https://github.com/FedericoLami/customer-support-agent)
+> Sistema multi-agente de atención al cliente — [demo en vivo](https://customer-support-agent-production-4934.up.railway.app)
+
+Pipeline de 4 agentes especializados (clasificador, buscador, redactor y revisor) construido con **LangGraph** que procesa consultas en lenguaje natural y genera respuestas alineadas con la política comercial, sin intervención humana. Estado compartido entre agentes, cortocircuito para spam, dockerizado y deployado en Railway.
+
+`Python` · `LangGraph` · `Anthropic Claude API` · `FastAPI` · `Docker`
+
+---
+
+### [research-agent](https://github.com/FedericoLami/research-agent)
+> Agente de investigación automática — [demo en vivo](https://research-agent-production-4a93.up.railway.app)
+
+Sistema multi-agente con **LangGraph** que genera reportes estructurados sobre cualquier tema: un pipeline de 4 agentes (planificador, buscador, analista y redactor) busca información actualizada en internet con **Tavily**, la filtra y la sintetiza en un documento Markdown, sin depender del conocimiento entrenado del modelo.
+
+`Python` · `LangGraph` · `Anthropic Claude API` · `Tavily` · `FastAPI` · `Docker`
+
+---
+
+### [AI-MELI-DataChallenge](https://github.com/FedericoLami/AI-MELI-DataChallenge)
+> Predicción de agotamiento de stock — MercadoLibre
+
+Sistema de predicción de agotamiento de stock para 551.472 SKUs de MercadoLibre usando simulación de Monte Carlo sobre datos reales de ventas. Incluye un agente con IA que permite consultar los resultados en lenguaje natural usando Claude con tool use.
+
+`Python` · `Anthropic Claude API` · `Pandas` · `NumPy` · `FastAPI`
+
+---
+
 ### [AI-Agent-Data-Analyst](https://github.com/FedericoLami/AI-Agent-Data-Analyst)
-Agente autónomo que responde preguntas en lenguaje natural sobre el dataset de RRHH de IBM (1.470 empleados). Usa **Claude con tool use**: el modelo razona sobre la pregunta, selecciona y ejecuta herramientas de análisis con pandas en secuencia, y sintetiza una respuesta accionable — sin intervención humana en el proceso intermedio.
+> Agente autónomo de análisis de datos
+
+Agente que responde preguntas en lenguaje natural sobre el dataset de RRHH de IBM (1.470 empleados). Usa **Claude con tool use**: el modelo razona sobre la pregunta, selecciona y ejecuta herramientas de análisis con pandas en secuencia, y sintetiza una respuesta accionable — sin intervención humana en el proceso intermedio.
 
 `Python` · `FastAPI` · `Anthropic Tool Use API` · `Pandas` · `REST`
 
 ---
 
-### [AI-MELI-DataChallenge](https://github.com/FedericoLami/AI-MELI-DataChallenge)
-Agente inteligente aplicado a datos reales de stock de MercadoLibre. Permite consultas en lenguaje natural sobre inventario, tendencias y patrones de disponibilidad usando **Claude con tool use** y análisis con Pandas.
+### [rag-documental](https://github.com/FedericoLami/rag-documental)
+> Sistema de consultas inteligentes sobre documentos
 
-`Python` · `Anthropic Claude API` · `Pandas` · `Jupyter Notebook`
+Sistema de consultas inteligentes sobre documentos usando arquitectura **RAG** (Retrieval Augmented Generation). Indexación semántica de PDFs y TXT, base de datos vectorial con ChromaDB y recuperación contextual vía Claude.
+
+`Python` · `FastAPI` · `ChromaDB` · `PyMuPDF` · `Anthropic Claude API`
 
 ---
 
 ### [BotClasificadorAI](https://github.com/FedericoLami/BotClasificadorAI)
+> Clasificador automático de mensajes con IA
+
 Sistema de clasificación automática de mensajes con **Claude Haiku**. Recibe texto libre y devuelve categoría, idioma, sentimiento y resumen en JSON estructurado. Expuesto como API REST con persistencia en SQLite. Aplicable en soporte técnico, e-commerce y moderación automática.
 
 `Python` · `FastAPI` · `Anthropic Claude API` · `SQLite` · `REST`
-
----
-
-### [rag-documental](https://github.com/FedericoLami/rag-documental)
-Sistema de consultas inteligentes sobre documentos usando arquitectura **RAG** (Retrieval Augmented Generation). Indexación semántica de PDFs y TXT, base de datos vectorial con ChromaDB y recuperación contextual vía Claude.
-
-`Python` · `FastAPI` · `ChromaDB` · `PyMuPDF` · `Anthropic Claude API`
 
 ---
 
@@ -61,8 +87,8 @@ Sistema de consultas inteligentes sobre documentos usando arquitectura **RAG** (
 ## Stack
 
 ```
-IA & LLMs     →  Anthropic Claude API · Tool Use · RAG · ChromaDB · Prompt Engineering
-Backend       →  Python · FastAPI · Uvicorn · REST APIs · SQLite
+IA & LLMs     →  Anthropic Claude API · LangGraph · Tool Use · RAG · ChromaDB · Tavily · Prompt Engineering
+Backend       →  Python · FastAPI · Uvicorn · REST APIs · SQLite · Docker
 Datos         →  Pandas · NumPy · Matplotlib · Streamlit · Jupyter Notebook
 BI & SQL      →  SQL Server · Power BI · DAX · Power Query · Excel Avanzado
 Dev           →  Git · GitLab · python-dotenv · venv
@@ -83,4 +109,3 @@ Dev           →  Git · GitLab · python-dotenv · venv
 <div align="center">
 La Plata, Buenos Aires
 </div>
-
