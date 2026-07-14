@@ -19,6 +19,15 @@ Estudiante avanzado de Analista en TIC (UNLP) con foco en **integración de LLMs
 
 ## Proyectos de IA
 
+### [pizzeria-bot](https://github.com/FedericoLami/pizzeria-bot)
+> Motor genérico de atención al cliente con IA — LangGraph + Redis + PostgreSQL
+
+Motor reutilizable de atención al cliente construido con **LangGraph** y Claude AI, demostrado a través de una pizzería ficticia. Pipeline de 4 agentes especializados con **memoria de conversación persistente en Redis** por cliente, consulta de menú y pedidos en **PostgreSQL** en tiempo real, y panel de administración. Diseñado para adaptarse a cualquier PyME cambiando solo las políticas y los datos.
+
+`Python` · `LangGraph` · `Anthropic Claude API` · `Redis` · `PostgreSQL` · `FastAPI` · `Docker`
+
+---
+
 ### [customer-support-agent](https://github.com/FedericoLami/customer-support-agent)
 > Sistema multi-agente de atención al cliente — [demo en vivo](https://customer-support-agent-production-4934.up.railway.app)
 
@@ -88,7 +97,7 @@ Sistema de clasificación automática de mensajes con **Claude Haiku**. Recibe t
 
 ```
 IA & LLMs     →  Anthropic Claude API · LangGraph · Tool Use · RAG · ChromaDB · Tavily · Prompt Engineering
-Backend       →  Python · FastAPI · Uvicorn · REST APIs · SQLite · Docker
+Backend       →  Python · FastAPI · Uvicorn · REST APIs · SQLite · Redis · PostgreSQL · Docker
 Datos         →  Pandas · NumPy · Matplotlib · Streamlit · Jupyter Notebook
 BI & SQL      →  SQL Server · Power BI · DAX · Power Query · Excel Avanzado
 Dev           →  Git · GitLab · python-dotenv · venv
