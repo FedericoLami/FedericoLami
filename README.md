@@ -37,15 +37,6 @@ Motor reutilizable de atención al cliente construido con **LangGraph** y Claude
 
 ---
 
-### [clinic-bot](https://github.com/FedericoLami/clinic-bot)
-> Chatbot de WhatsApp para clínicas médicas — LangGraph + Twilio + PostgreSQL
-
-Sistema de atención al paciente vía WhatsApp para una clínica de gastroenterología. Automatiza el agendamiento de turnos, consultas, cancelaciones, recordatorios automáticos 24 hs antes del turno y derivación al secretario. El bot **es** el sistema de gestión: maneja su propia base de datos de pacientes y turnos en **PostgreSQL**, con memoria de sesión en **Redis**.
-
-`Python` · `LangGraph` · `Anthropic Claude API` · `Twilio` · `Redis` · `PostgreSQL` · `APScheduler` · `FastAPI` · `Docker`
-
----
-
 ### [research-agent](https://github.com/FedericoLami/research-agent)
 > Agente de investigación automática
 
