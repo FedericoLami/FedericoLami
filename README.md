@@ -105,7 +105,7 @@ Detección de pólipos en imágenes de endoscopía (Python, YOLOv11, FastAPI), u
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [ENCUEST.AR](https://github.com/FedericoLami/ENCUEST.AR) | App web de análisis socioeconómico sobre datos del INDEC (+50k registros) | Python · Pandas · Streamlit · Altair |
-| [VideoGamesAnalysis](https://github.com/FedericoLami/VideoGamesAnalysis) | Análisis de mercado global de videojuegos (+16k títulos) | Python · Pandas · Matplotlib · Streamlit |
+| [VideoGamesAnalysis](https://github.com/FedericoLami/VideoGamesAnalysis) | Análisis de mercado global de videojuegos (+16k títulos) | Python · Pandas · Altair · Streamlit |
 
 ---
 
