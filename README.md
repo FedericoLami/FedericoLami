@@ -31,7 +31,7 @@ Pipeline de 4 agentes especializados (clasificador, buscador, redactor y revisor
 ### [pizzeria-bot](https://github.com/FedericoLami/pizzeria-bot)
 > Motor genérico de atención al cliente con IA — LangGraph + Redis + PostgreSQL
 
-Motor reutilizable de atención al cliente construido con **LangGraph** y Claude AI, demostrado a través de una pizzería ficticia. Pipeline de 4 agentes especializados con **memoria de conversación persistente en Redis** por cliente, consulta de menú y pedidos en **PostgreSQL** en tiempo real, y panel de administración. Diseñado para adaptarse a cualquier PyME cambiando solo las políticas y los datos.
+Motor reutilizable de atención al cliente construido con **LangGraph** y Claude AI, demostrado a través de una pizzería ficticia. Pipeline de 4 agentes especializados con **memoria de conversación persistente en Redis** por cliente y consulta de menú y pedidos en **PostgreSQL**. Diseñado para adaptarse a cualquier PyME cambiando solo las políticas y los datos.
 
 `Python` · `LangGraph` · `Anthropic Claude API` · `Redis` · `PostgreSQL` · `FastAPI` · `Docker`
 
